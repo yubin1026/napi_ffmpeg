@@ -1,0 +1,22 @@
+{
+  "author": "yubin",
+  "name": "napi_ffmpeg",
+  "description": "FFMpeg bindings with N-API",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yubin1026/napi_ffmpeg.git"
+  },
+  "homepage": "https://github.com/yubin1026/napi_ffmpeg",
+  "keyword": [
+    "napi",
+    "ffmpeg"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
